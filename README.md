@@ -1,16 +1,34 @@
-# React + Vite
+# 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple movie search app built with **React.js** and the **IMDb/OMDb API**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 [View Live Demo](lucky-malasada-bcd294.netlify.app)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Search movies
+* View movie posters
+* View movie title and year
+* Uses API to get movie data
+* Built with React
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript
+* CSS
+* API
+* `fetch()`
+
+## 📸 Preview
+
+<img width="2256" height="1364" alt="image" src="https://github.com/user-attachments/assets/82d68d61-92b1-4d8f-88a2-516890a3d237" />
+<img width="1130" height="1022" alt="image" src="https://github.com/user-attachments/assets/564b3cb9-f7a9-45e8-b89c-6f70b2d846be" />
+
+
+
+## 👨‍💻 Author
+
+Lalittesh Kumar K
