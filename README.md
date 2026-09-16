@@ -4,7 +4,7 @@ A simple movie search app built with **React.js** and the **IMDb/OMDb API**.
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](lucky-malasada-bcd294.netlify.app)
+👉 lucky-malasada-bcd294.netlify.app
 
 ## ✨ Features
 
